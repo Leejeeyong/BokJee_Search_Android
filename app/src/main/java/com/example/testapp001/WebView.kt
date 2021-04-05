@@ -11,7 +11,7 @@ import android.webkit.WebViewClient
 
 class WebView : AppCompatActivity() {
 
-    private val url = "https://naracloud.com"
+    private val url = "https://google.com"
     private val TAG = "MainWebView"
 
     val Base_URL = "https://wuqhn9t75a.execute-api.ap-northeast-2.amazonaws.com/"
