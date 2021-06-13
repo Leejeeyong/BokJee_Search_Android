@@ -1,0 +1,46 @@
+{\rtf1\ansi\ansicpg949\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\
+  \{\
+    "local": "Seoul",\
+    "locald": \{\
+       "Jonglo" : ["cheongunhyoja","sajig","samcheong","buam","pyeongchang","muag","gyonam","gahoe","jonglo1234ga","jonglo56ga","ihwa","hyehwa","changsin1","changsin2","changsin3","sungin1","sungin2"],\
+         "Junggu" : ["sogong","hoehyeon","myeong","pil","jangchung","gwanghui","euljilo","sindang","dasan","yagsu","cheonggu","sindang5","donghwa","hwanghag","junglim"],\
+         "Yongsan" : ["huam","yongsan2ga","nam-yeong","cheongpa","wonhyolo1","wonhyolo2","hyochang","yongmun","hanganglo","ichon1","ichon2","itaewon1","itaewon2","hannam","seobinggo","bogwang"],\
+         "Seongdong" : ["wangsiblije2","wangsiblidoseon","majang","sageun","haengdangje1","haengdangje2","eungbong","geumho1ga","geumho23ga","geumho4ga","seongsu1gaje1","seongsu1gaje2","seongsu2gaje1","seongsu2gaje3","songjeong","yongdab","ogsu"],\
+         "Gwangjin" : ["junggogje1","junggogje2","junggogje3","junggogje4","neung","guuije1","guuije2","guuije3","gwangjang","jayangje1","jayangje2","jayangje3","jayangje4","hwayang","gunja"],\
+         "Dongdaemun" : ["yongsin","jegi","jeonnongje1","jeonnongje2","dabsiblije1","dabsiblije2","janganje1","janganje2","cheonglyangli","hoegi","hwigyeongje1","hwigyeongje2","imunje1","imunje2"],\
+         "Junglang" : ["myeonmogbon","myeonmogje2","myeonmogje3.8","myeonmogje4","myeonmogje5","myeonmogje7","sangbongje1","sangbongje2","junghwaje1","junghwaje2","mugje1","mugje2","mangubon","manguje3","sinnae1","sinnae2"],\
+         "Seongbug" : ["seongbug","samseon","dongseon","donamje1","donamje2","anam","bomun","jeongleungje1","jeongleungje2","jeongleungje3","jeongleungje4","gileumje1","gileumje2","jongam","wolgogje1","wolgogje2","jangwije1","jangwije2","jangwije3","seoggwan"],\
+         "Gangbug" : ["samyang","mia","songjung","songcheon","samgagsan","beon1","beon2","beon3","suyu1","suyu2","suyu3","ui","insu"],\
+         "Dobong" : ["ssangmunje1","ssangmunje2","ssangmunje3","ssangmunje4","banghagje1","banghagje2","banghagje3","changje1","changje2","changje3","changje4","changje5","dobongje1","dobongje2"],\
+         "Nowon" : ["wolgye1","wolgye2","wolgye3","gongleung1","gongleung2","hagye1","hagye2","junggyebon","junggye1","junggye2.3","junggye4","sanggye1","sanggye2","sanggye3.4","sanggye5","sanggye6.7","sanggye8","sanggye9","sanggye10"],\
+         "Eunpyeong" : ["nogbeon","bulgwangje1","bulgwangje2","galhyeonje1","galhyeonje2","gusan","daejo","eungamje1","eungamje2","eumamje3","yeogchon","sinsaje1","sinsaje2","jeungsan","susaeg","jingwan"],\
+         "Seodaemun" : ["chunghyeon","cheonyeon","bugahyeon","sinchon","yeonhui","hongjeje1","hongjeje2","hongjeje3","hongeunje1","hongeunje2","namgajwaje1","namgajwaje2","buggajwaje1","buggajwaje2"],\
+         "Mapo" : ["gongdeog","ahyeon","dohwa","yonggang","daeheung","yeomli","sinsu","seogang","seogyo","habjeong","mangwonje1","mangwonje2","yeonnam","seongsanje1","seongsanje2","sangam"],\
+         "Yangcheon" : ["mog1","mog2","mog3","mog4","mog5","sinwol1","sinwol2","sinwol3","sinwol4","sinwol5","sinwol6","sinwol7","sinjeong1","sinjeong2","sinjeong3","sinjeong4","sinjeong6","sinjeong7"],\
+         "Gangseo" : ["yeomchang","deungchonje1","deungchonje2","deungchonje3","hwagogbon","hwagogje1","hwagogje2","hwagogje3","hwagogje4","hwagogje6","hwagogje8","ujangsan","gayangje1","gayangje2","gayangje3","balsanje1","gonghang","banghwaje1","banghwaje2","banghwaje3"],\
+         "Gulo" : ["sindolim","guloje1","guloje2","guloje3","guloje4","guloje5","galibong","gocheogje1","gocheogje2","gaebongje1","gaebongje2","gaebongje3","olyuje1","olyuje2","hang","sugung"],\
+         "Geumcheon" : ["gasan","dogsanje1","dogsanje2","dogsanje3","dogsanje4","siheungje1","siheungje2","siheungje3","siheungje4","siheungje5"],\
+         "Yeongdeungpo" : ["yeongdeungpobon","yeongdeungpo","yeoui","dangsanje1","dangsanje2","munlae","yangpyeongje1","yangpyeongje2","singilje1","singilje3","singilje4","singilje5","singilje6","singilje7","daelimje1","daelimje2","daelimje3","dolim"],\
+         "Dongjag" : ["nolyangjinje1","nolyangjinje2","sangdoje1","sangdoje2","sangdoje3","sangdoje4","heugseog","sadangje1","sadangje2","sadangje3","sadangje4","sadangje5","daebang","sindaebangje1","sindaebangje2"],\
+         "Gwanag" : ["bolamae","cheonglim","haengun","nagseongdae","jungang","inheon","namhyeon","seowon","sinwon","seolim","sinsa","sinlim","nanhyang","jowon","daehag","euncheon","seonghyeon","cheonglyong","nangog","samseong","miseong"],\
+         "Seocho" : ["seocho1","seocho2","seocho3","seocho4","jamwon","banpobon","banpo1","banpo2","banpo3","banpo4","bangbaebon","bangbae1","bangbae2","bangbae3","bangbae4","yangjae1","yangjae2","naegog"],\
+         "Gangnam" : ["sinsa","nonhyeon1","nonhyeon2","abgujeong","cheongdam","samseong1","samseong2","daechi1","daechi2","daechi4","yeogsam1","yeogsam2","dogog1","dogog2","gaepo1","gaepo2","gaepo4","segog","ilwonbon","il-won1","il-won2","suseo"],\
+         "Songpa" : ["pungnab1","pungnab2","geoyeo1","geoyeo2","macheon1","macheon2","bangi1","bangi2","olyun","ogeum","songpa1","songpa2","seogchon","samjeon","galagbon","galag1","galag2","munjeong1","munjeong2","jangji","wilye","jamsilbon","jamsil2","jamsil3","jamsil4","jamsil6","jamsil7"],\
+         "Gangdong" : ["gangil","sangil","myeongil1","myeongil2","godeog1","godeog2","amsa1","amsa2","amsa3","cheonho1","cheonho2","cheonho3","seongnae1","seongnae2","seongnae3","gil","dunchon1","dunchon2"]\
+    \}  \
+  \},\
+  \{\
+    "local": "Gyeonggi",\
+    "locald": \{\
+       "Uijeongbu" : ["Uijeongbu1","Uijeongbu2","Howon1","Howon2","Jangam","Singok1",\
+       "Singok2","Songsan1","Songsan2","Songsan3","jageum","ganeung","Heungseon","Nokyangdong"]     \
+    \}\
+  \}\
+]}
